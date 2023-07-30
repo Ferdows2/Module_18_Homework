@@ -1,2 +1,1 @@
-# Module_18_Homework
-Module_18_Homework
+![Web page results screenshot](Capture.PNG)
